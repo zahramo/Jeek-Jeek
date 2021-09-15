@@ -1,0 +1,35 @@
+signup amirhbv amir 5038
+signup zahramo99 zahra 1234
+signup a s
+login amirhbv 5038
+login amirhbv 5038
+jeek
+text salam
+tag salam
+tag hi
+mention zahramo99
+publish
+showJeek 0
+logout
+login zahramo99 1234
+comment 0 meeerccc
+showJeek 0
+logout
+login amirhbv 5038
+reply 0 np
+showComment 0
+showReply 1
+logout
+login zahramo99 1234
+reply 1 :)
+reply 0 klklk
+showReply 2
+showReply 3
+showComment 0
+follow amirhbv
+like 0
+showJeek 0
+rejeek 0
+showJeek 1
+notifications
+logout
